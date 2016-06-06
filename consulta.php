@@ -1,6 +1,6 @@
 <?php
 
-$host='localhost';
+$host='104.197.162.184';
 $db='postgres';
 $user='postgres';
 $pass='lucas2';
